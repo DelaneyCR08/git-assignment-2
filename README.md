@@ -28,7 +28,8 @@ It should say you are on branch `writing`.
 git push -u origin writing
 
 4. Make a change to the line below in this file: \
-High Technology High School, Computer Science
+WRITE A CONTROVERSIAL OPINION YOU HAVE HERE \
+Mayo is good on chicken sandwiches. Anything else is unacceptable.
 
 5. Add, commit, and push your changes: \
 git add README.md \
